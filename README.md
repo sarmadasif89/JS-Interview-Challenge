@@ -1,3 +1,6 @@
+Hi,
+I am Sarmad Asif. This repo is for an interview challenge with Rackspace.
+
 # JS-Interview-Challenge
 An application that shows a table of information. 
 
